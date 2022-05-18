@@ -1,1 +1,1 @@
-# simple_shell
+Elijah and Philip 
